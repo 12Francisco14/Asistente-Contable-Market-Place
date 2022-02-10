@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Asistente Contable Market Place", "Asistente Contable Market Place\Asistente Contable Market Place.vbproj", "{A8F7F108-C206-4DDF-8637-B0122B530C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F7F108-C206-4DDF-8637-B0122B530C2E}.Debug|x86.ActiveCfg = Debug|x86
+		{A8F7F108-C206-4DDF-8637-B0122B530C2E}.Debug|x86.Build.0 = Debug|x86
+		{A8F7F108-C206-4DDF-8637-B0122B530C2E}.Release|x86.ActiveCfg = Release|x86
+		{A8F7F108-C206-4DDF-8637-B0122B530C2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
