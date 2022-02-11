@@ -71,29 +71,3 @@ C:\Users\Elvis Martinez\Pictures\Asistente Contable Market Place\Asistente Conta
 C:\Users\Elvis Martinez\Pictures\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Registro.resources
 C:\Users\Elvis Martinez\Pictures\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Ventas.resources
 C:\Users\Elvis Martinez\Pictures\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.vbproj.GenerateResource.Cache
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente.mdb
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente Contable Market Place.exe.config
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente Contable Market Place.exe.manifest
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente Contable Market Place.application
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente Contable Market Place.exe
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente Contable Market Place.pdb
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\bin\Debug\Asistente Contable Market Place.xml
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.vbproj.AssemblyReference.cache
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.vbproj.SuggestedBindingRedirects.cache
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Empleados.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Form1.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Ingreso_Cliente.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Inventario.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.LOGIN.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Resources.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.PRINCIPAL.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Proveedores.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Registro.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente_Contable_Market_Place.Ventas.resources
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.vbproj.GenerateResource.cache
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.vbproj.CoreCompileInputs.cache
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.exe.manifest
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.application
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.exe
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.xml
-C:\Users\franc\Desktop\Asistente Contable Market Place\Asistente Contable Market Place\Asistente Contable Market Place\obj\x86\Debug\Asistente Contable Market Place.pdb

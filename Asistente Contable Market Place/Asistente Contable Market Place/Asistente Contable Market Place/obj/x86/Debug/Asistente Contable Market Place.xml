@@ -6,6 +6,151 @@ Asistente Contable Market Place
 </name>
 </assembly>
 <members>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.EMPLEADOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.INVENTARIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.PROVEEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.VENTASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.EMPLEADOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.INVENTARIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.PROVEEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.VENTASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.EMPLEADOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.INVENTARIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.PROVEEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.VENTASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.EMPLEADOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.INVENTARIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.PROVEEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.VENTASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Asistente_Contable_Market_Place.AsistenteDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Asistente_Contable_Market_Place.AsistenteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Asistente_Contable_Market_Place.AsistenteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateAll(Asistente_Contable_Market_Place.AsistenteDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
 <member name="T:Asistente_Contable_Market_Place.My.Resources.Resources">
 <summary>
   Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
@@ -225,151 +370,6 @@ Asistente Contable Market Place
 <member name="P:Asistente_Contable_Market_Place.My.Resources.Resources.users_icon_icons_com_57999">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet">
-<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.CLIENTESDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.EMPLEADOSDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.INVENTARIODataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.PROVEEDORDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.VENTASDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.CLIENTESRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.EMPLEADOSRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.INVENTARIORow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.PROVEEDORRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.VENTASRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.CLIENTESRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.EMPLEADOSRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.INVENTARIORowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.PROVEEDORRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSet.VENTASRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.CLIENTESTableAdapter">
-<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.EMPLEADOSTableAdapter">
-<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.INVENTARIOTableAdapter">
-<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.PROVEEDORTableAdapter">
-<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.VENTASTableAdapter">
-<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager">
-<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member>
-<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Asistente_Contable_Market_Place.AsistenteDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Update rows in top-down order.
-</summary>
-</member>
-<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Asistente_Contable_Market_Place.AsistenteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Insert rows in top-down order.
-</summary>
-</member>
-<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Asistente_Contable_Market_Place.AsistenteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Delete rows in bottom-up order.
-</summary>
-</member>
-<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member>
-<member name="M:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateAll(Asistente_Contable_Market_Place.AsistenteDataSet)">
-<summary>
-Update all changes to the dataset.
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
-<summary>
-Update Order Option
-</summary>
-</member>
-<member name="T:Asistente_Contable_Market_Place.AsistenteDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
-<summary>
-Used to sort self-referenced table's rows
 </summary>
 </member>
 </members>
